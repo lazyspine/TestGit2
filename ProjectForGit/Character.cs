@@ -9,6 +9,7 @@ namespace ProjectForGit
     internal class Character
     {
         string name;
+        uint age;
         string job;
     }
 }
